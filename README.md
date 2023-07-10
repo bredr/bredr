@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bredr
-- 👀 I’m interested in modern large scale web application development, from front end to backend, all the way down to the cloud infrastructure.
-- 🌱 I’m currently learning a number of microservice frameworks.
+- 👀 I’m interested in taking ML/NLP to production, modern large scale web application development, from front end to backend, all the way down to the cloud infrastructure.
+- 🌱 I’m currently learning about distributed model training.
 - 🔧 I'm a big fan of Golang and TypeScript but will play in python, C++, Java... 
 - 💻 I work @exscientia
 
